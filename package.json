@@ -1,0 +1,13 @@
+{
+  "name": "sharifpoetra",
+  "version": "1.0.0",
+  "description": "My profile page.",
+  "main": "index.js",
+  "repository": "git@github.com:SharifPoetra/SharifPoetra.git",
+  "author": "SharifPoetra <sharifpoetra1@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
