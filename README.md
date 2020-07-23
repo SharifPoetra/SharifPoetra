@@ -72,13 +72,14 @@
     </tr>
   </tbody>
 </table>
-<h3>My latest post</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/sharifpoetra/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @sharifpoetra!</a></p>
 <h3>Where to find me:</h3>
-<p><a href="https://github.com/SharifPoetra" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<p>
+<a href="https://github.com/SharifPoetra" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.instagram.com/sharifpoetra/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://discord.gg/ZEFrfj5" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
 </p>
 
 ------------
-<p align="center">This README file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, July 23, 5:17 PM GMT+8</p>
-<p align="center"><img src="https://github.com/SharifPoetra/SharifPoetra/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/SharifPoetra/SharifPoetra?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></td></p>
+<p align="center">This README file is generated automatically!</br>Last updated: Thursday, July 23, 6:10 PM GMT+8</p>
+<p align="center"><img src="https://github.com/SharifPoetra/SharifPoetra/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/SharifPoetra/SharifPoetra?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/SharifPoetra/SharifPoetra?style=flat-square&labelColor=343b41"/></td></p>
