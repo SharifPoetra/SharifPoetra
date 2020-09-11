@@ -72,6 +72,10 @@
     </tr>
   </tbody>
 </table>
+
+<br>
+<img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=SharifPoetra&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=false">
+
 <h3>Where to find me:</h3>
 <p>
 <a href="https://github.com/SharifPoetra" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -81,5 +85,5 @@
 </p>
 
 ------------
-<!-- <p align="center">This README file is generated automatically!</br>Last updated: Wednesday, 5 August, 15:58 GMT+8</p> -->
+<!-- <p align="center">This README file is generated automatically!</br>Last updated: Friday, 11 September, 14:23 GMT+8</p> -->
 <p align="center"><img src="https://github.com/SharifPoetra/SharifPoetra/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/SharifPoetra/SharifPoetra?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/SharifPoetra/SharifPoetra?style=flat-square&labelColor=343b41"/></td></p>
