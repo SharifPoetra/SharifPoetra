@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Sharif's Github stats" src="https://github-readme-stats.vercel.app/api?username=SharifPoetra&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" width="100%" max-width="495" />
+  <img alt="Sharif's Github stats" src="https://github-readme-stats.vercel.app/api?username=SharifPoetra&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" width="495" style="max-width: 100%;" />
 </p>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you!</h1>
@@ -31,7 +31,7 @@ I am a hobby developer focused on building applications primarily with **JavaScr
       <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
       <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-      <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&angle=0&logoColor=white" />
       <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
     </td>
   </tr>
@@ -66,7 +66,3 @@ I am a hobby developer focused on building applications primarily with **JavaScr
 </p>
 
 ---
-<p align="center">
-  <img alt="Stars" src="https://img.shields.io/github/stars/SharifPoetra/SharifPoetra?style=flat-square&labelColor=343b41"/> 
-  <img alt="Forks" src="https://img.shields.io/github/forks/SharifPoetra/SharifPoetra?style=flat-square&labelColor=343b41"/>
-</p>
