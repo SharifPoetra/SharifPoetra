@@ -30,6 +30,20 @@
   </thead>
   <tbody>
     <tr>
+	    <td><a href="https://github.com/SharifPoetra/nova"><b>Nova</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SharifPoetra/nova?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SharifPoetra/nova?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SharifPoetra/nova?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SharifPoetra/nova?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+	    <td><a href="https://github.com/SharifPoetra/termiboard-backend"><b>TermiBoard-Backend</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SharifPoetra/termiboard-backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SharifPoetra/termiboard-backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SharifPoetra/termiboard-backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SharifPoetra/termiboard-backend?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
 	    <td><a href="https://github.com/SharifPoetra/thunder-java"><b>Thunder</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/SharifPoetra/thunder-java?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SharifPoetra/thunder-java?style=flat-square&labelColor=343b41"/></td>
@@ -86,5 +100,5 @@
 </p>
 
 ------------
-<!-- <p align="center">This README file is generated automatically!</br>Last updated: Wednesday, 1 June, 07:58 GMT+8</p> -->
+<!-- <p align="center">This README file is generated automatically!</br>Last updated: Saturday 13 June at 18:41 GMT+8</p> -->
 <p align="center"><img src="https://github.com/SharifPoetra/SharifPoetra/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/SharifPoetra/SharifPoetra?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/SharifPoetra/SharifPoetra?style=flat-square&labelColor=343b41"/></td></p>
