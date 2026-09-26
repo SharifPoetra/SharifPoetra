@@ -9,7 +9,7 @@ I am a hobby developer focused on building applications primarily with **JavaScr
 
 📍 **From:** 🇮🇩 Sulawesi, Indonesia  
 🏠 **Living in:** 🇲🇾 Sabah, Malaysia  
-🌐 **Website:** [sharifpoetra.github.io](https://sharifpoetra.github.io)
+🌐 **Website:** [sharif.my.id](https://sharif.my.id)
 
 ---
 
